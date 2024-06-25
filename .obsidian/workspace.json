@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "edd8780f5a13eeb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f85d26364da99596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8e20a4ce4fbdb3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mindmap.canvas",
+                "viewState": {
+                  "x": -2243.0448256368686,
+                  "y": 3414.7596164531515,
+                  "zoom": -0.333333333333333
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0b2eb3b08588b79a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mindmap.canvas",
+                "viewState": {
+                  "x": -1670.5,
+                  "y": 1614.743046357616,
+                  "zoom": -2.997569576539102
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23a55a35d2fa00e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "df49cf7a5fce2b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b17fbb4114aeea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51eabb2b2ef1832b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cca8041c7c7a0560",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "a6c09605bb297b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e6b169b0d2a0a0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54bcdd2218087f14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mindmap.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29a4529b1be4a09a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mindmap.canvas",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a054ab08f6feb193",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7557d9fd89362d71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mindmap.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "0b2eb3b08588b79a",
+  "lastOpenFiles": [
+    "Kali (Outside Enumeration)/CrackMapExec.md",
+    "Mindmap.canvas",
+    "Kali (Outside Enumeration)/LDAP Search.md",
+    "Kali (Outside Enumeration)/John The Ripper.md",
+    "Kali (Outside Enumeration)/HashCat.md",
+    "Extra Tools/Untitled.md",
+    "Domain Enumeration/Domain and Forest Functional Levels.md",
+    "Kali (Outside Enumeration)/Kerbrute.md",
+    "Extra Tools/PowerView.md",
+    "Extra Tools/DomainPasswordSpray.md",
+    "Extra Tools",
+    "Local Enumeration/Running services.md",
+    "Kali (Outside Enumeration)/Enum4Linux.md",
+    "Domain Enumeration/AdminSDHolder Protected Accounts.md",
+    "Local Enumeration/PowerShell History.md",
+    "TEMP.md",
+    "Local Enumeration/Antivirus & Security Software.md",
+    "Kali (Outside Enumeration)/Impacket.md",
+    "Domain Enumeration/Account Lockout Policies.md",
+    "Domain Enumeration/AD CS Certificates.md",
+    "Domain Enumeration/AD Replication Status.md",
+    "Domain Enumeration/AD Sites and Subnets.md",
+    "Domain Enumeration/Computer Accounts.md",
+    "Domain Enumeration/DNS Configuration.md",
+    "Domain Enumeration/Domain Admins and Privileged Accounts.md",
+    "Domain Enumeration/Domain Controllers.md",
+    "Domain Enumeration/Domain Groups.md",
+    "Local Enumeration/Images/Pasted image 20240529214832.png",
+    "Local Enumeration/Images/Pasted image 20240508105026.png",
+    "Local Enumeration/Images/Pasted image 20240508104723.png",
+    "Local Enumeration/Images/Pasted image 20240508102253.png",
+    "Local Enumeration/Images/Pasted image 20240508101131.png",
+    "Local Enumeration/Images/Pasted image 20240529223310.png",
+    "Local Enumeration/Images/Pasted image 20240529222827.png",
+    "Local Enumeration/Images/Pasted image 20240529222818.png",
+    "Local Enumeration/Images/Pasted image 20240529221732.png",
+    "Local Enumeration/Images/Pasted image 20240529221528.png",
+    "Local Enumeration/Images",
+    "Kali (Outside Enumeration)/Images",
+    "Kali (Outside Enumeration)",
+    "Windows Enum.canvas",
+    "Domain Enumeration",
+    "Local Enumeration",
+    "Untitled 1.canvas"
+  ]
+}
